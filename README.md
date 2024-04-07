@@ -7,9 +7,12 @@
 <details>
 <summary>Lab 0 Prerequisite</summary>
 
+  
+Install WSL2 and Ubuntu 22.04.
+
 Encounter bugs when `apt-get install`, try `aptitude install` to resolve the conflicts.
 
-Encounter bugs when `make menuconfig`
+Encounter bugs when `make menuconfig`.
 
 ```
 apt install libncurses5-dev flex bison
