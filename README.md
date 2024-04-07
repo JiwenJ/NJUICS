@@ -6,5 +6,14 @@
 
 <details>
 <summary>Lab 0 Prerequisite</summary>
+
+Encounter bugs when `apt-get install`, try `aptitude install` to resolve the conflicts.
+
+Encounter bugs when `make menuconfig`
+
+```
+apt install libncurses5-dev flex bison
+```
+
 </details>
 
